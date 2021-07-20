@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8939278002",
+    "firebase_url": "https://mints-d44cf.firebaseio.com",
+    "project_id": "mints-d44cf",
+    "storage_bucket": "mints-d44cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8939278002:android:2f4dc22d1e985fd56683ab",
+        "android_client_info": {
+          "package_name": "com.mints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8939278002-a6m03trroafha22ti47lttfkea36ihlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1M2rzlj5uC-fiG6kTQ2TU2fyXXVUIrV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8939278002-a6m03trroafha22ti47lttfkea36ihlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
